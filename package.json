@@ -1,12 +1,12 @@
 {
-  "name": "optimizedhtml",
-  "version": "2.0.1",
-  "description": "OptimizedHTML - Start HTML Template",
+  "name": "templ-gulp",
+  "version": "1.0.0",
+  "description": "Template gulp frontend",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "WebDesign Master",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "gulp-plumber": "^1.1.0",
