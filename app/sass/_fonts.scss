@@ -1,0 +1,20 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+//font-family: 'Montserrat', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,400i');
+//font-family: 'Droid Serif', serif;
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+@font-face {
+    font-family: 'Wisdom';
+    src: url('../fonts/wisdom/WisdomScriptAJ.eot');
+    src: url('../fonts/wisdom/WisdomScriptAJ.woff2') format('woff2'),
+    url('../fonts/wisdom/WisdomScriptAJ.woff') format('woff'),
+    url('../fonts/wisdom/WisdomScriptAJ.ttf') format('truetype'),
+    url('../fonts/wisdom/WisdomScriptAJ.svg#WisdomScriptAJ') format('svg');
+}
+
+
+$font-default: Arial, Helvetica, sans-serif;
